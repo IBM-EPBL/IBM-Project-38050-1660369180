@@ -1,0 +1,10 @@
+pip install SpeechRecognition
+pip install moviepy
+pip install playsound
+pip install scikit-image
+pip install tensorflow
+pip install keras
+pip install Flask
+pip install opencv-python
+pip install gTTS
+pip install Pillow
